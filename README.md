@@ -5,6 +5,9 @@ A collection of small tidbits of knowledge I learned developing software. Ones t
 
 - [Easily raise validation error with custom message](https://github.com/lukapeharda/til/blob/master/laravel/easily-raise-validation-error-with-custom-message.md)
 
+## React
+- [useRef instead of useState hook for input fields](https://github.com/lukapeharda/til/blob/master/react/use-ref-for-inputs-to-prevent-from-re-rendering.md)
+
 ## WordPress
 
 - [Unit testing plugins using WP CLI](https://github.com/lukapeharda/til/blob/master/wordpress/unit-testing-plugins-using-wp-cli.md)
