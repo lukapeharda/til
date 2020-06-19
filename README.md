@@ -4,6 +4,7 @@ A collection of small tidbits of knowledge I learned developing software. Ones t
 ## Laravel
 
 - [Easily raise validation error with custom message](https://github.com/lukapeharda/til/blob/master/laravel/easily-raise-validation-error-with-custom-message.md)
+- [Extend core Laravel bidings](https://github.com/lukapeharda/til/blob/master/laravel/extend-core-laravel-bindings.md)
 
 ## React
 - [useRef instead of useState hook for input fields](https://github.com/lukapeharda/til/blob/master/react/use-ref-for-inputs-to-prevent-from-re-rendering.md)
