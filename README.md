@@ -14,5 +14,8 @@ A collection of small tidbits of knowledge I learned developing software. Ones t
 - [useRef instead of useState hook for input fields](https://github.com/lukapeharda/til/blob/master/react/use-ref-for-inputs-to-prevent-from-re-rendering.md)
 - [Use React Router NavLink component instead of Link to specify active navigation link](https://github.com/lukapeharda/til/blob/master/react/use-react-router-navlink-instead-of-link-to-specify-active-link.md)
 
+## Twitter
+- [Bookmark a tweet](https://github.com/lukapeharda/til/blob/master/twitter/bookmark.md)
+
 ## WordPress
 - [Unit testing plugins using WP CLI](https://github.com/lukapeharda/til/blob/master/wordpress/unit-testing-plugins-using-wp-cli.md)
