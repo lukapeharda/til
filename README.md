@@ -17,5 +17,8 @@ A collection of small tidbits of knowledge I learned developing software. Ones t
 ## Twitter
 - [Bookmark a tweet](https://github.com/lukapeharda/til/blob/master/twitter/bookmark.md)
 
+## VS Code
+- [Allow VS Code to administer your computer](https://github.com/lukapeharda/til/blob/master/vscode/allow-vscode-to-administer-your-computer.md)
+
 ## WordPress
 - [Unit testing plugins using WP CLI](https://github.com/lukapeharda/til/blob/master/wordpress/unit-testing-plugins-using-wp-cli.md)
