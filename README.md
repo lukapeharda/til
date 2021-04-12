@@ -7,6 +7,7 @@ A collection of small tidbits of knowledge I learned developing software. Ones t
 - [Specify Columns While Eager Loading](https://github.com/lukapeharda/til/blob/master/laravel/specify-columns-while-eager-loading.md)
 - [Use CarbonInterval instead of magic numbers for setting up TTL](https://github.com/lukapeharda/til/blob/master/laravel/use-carbon-interval-for-setting-ttl.md)
 - [Use Builder::toBase method to return stdClass object from your query](https://github.com/lukapeharda/til/blob/master/laravel/use-tobase-method-to-return-stdclass-from-query.md)
+- [Use Eloquent's Model::getChanges method to check for model changes](https://github.com/lukapeharda/til/blob/master/laravel/use-eloquent-getchanges-method-to-get-model-changes.md)
 
 ## MacOS
 - [Have folders before files in Finder](https://github.com/lukapeharda/til/blob/master/macos/folders-before-files-in-finder.md)
