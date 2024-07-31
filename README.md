@@ -1,6 +1,9 @@
 # TIL
 A collection of small tidbits of knowledge I learned developing software. Ones that are too short for an article but worth saving. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til/).
 
+## PHP
+- [Advanced typed array types](https://github.com/lukapeharda/til/blob/master/php/advanced-typed-array-types.md)
+
 ## Laravel
 - [Easily raise validation error with custom message](https://github.com/lukapeharda/til/blob/master/laravel/easily-raise-validation-error-with-custom-message.md)
 - [Extend core Laravel bidings](https://github.com/lukapeharda/til/blob/master/laravel/extend-core-laravel-bindings.md)
