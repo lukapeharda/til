@@ -9,8 +9,9 @@ We can specify literal keys:
  *
  * @return int
  */
-function transform(array $data): int {
-  return $data['begin'] + $data['interval'];
+function transform(array $data): int
+{
+    return $data['begin'] + $data['interval'];
 }
 ```
 
@@ -24,12 +25,15 @@ We can even go as far as to specify the array should not be empty:
  *
  * @return non-empty-string
  */
-function concatKeys(array $data): string {
-  $output = '';
-  foreach($data as $key => $v) {
-  $output .= $key;
-  }
-  return $output;
+function concatKeys(array $data): string
+{
+    $output = '';
+
+    foreach($data as $key => $v) {
+        $output .= $key;
+    }
+
+    return $output;
 }
 ```
 
