@@ -11,6 +11,8 @@ A collection of small tidbits of knowledge I learned developing software. Ones t
 - [Use CarbonInterval instead of magic numbers for setting up TTL](https://github.com/lukapeharda/til/blob/master/laravel/use-carbon-interval-for-setting-ttl.md)
 - [Use Builder::toBase method to return stdClass object from your query](https://github.com/lukapeharda/til/blob/master/laravel/use-tobase-method-to-return-stdclass-from-query.md)
 - [Use Eloquent's Model::getChanges method to check for model changes](https://github.com/lukapeharda/til/blob/master/laravel/use-eloquent-getchanges-method-to-get-model-changes.md)
+- [Easily dump or log DB queries](https://github.com/lukapeharda/til/blob/master/laravel/easily-dump-or-log-db-queries.md)
+- [Request fingerprinting](https://github.com/lukapeharda/til/blob/master/laravel/request-fingerprinting.md)
 
 ## MacOS
 - [Have folders before files in Finder](https://github.com/lukapeharda/til/blob/master/macos/folders-before-files-in-finder.md)
