@@ -15,7 +15,7 @@ $dummyModel->update([
 
 $changes = $dummyModel->getChanges();
 
-// $changes are equal to Array(['foo' => 'baz']);  
+// $changes are equal to Array(['foo' => 'baz']);
 ```
 
 There are several other interesting methods regarding changes in the `Illuminate\Database\Eloquent\Concerns\HasAttributes` trait:
@@ -24,3 +24,7 @@ There are several other interesting methods regarding changes in the `Illuminate
 * `hasChanges($changes, $attributes = null)` which checks if any of the given attributes were changed
 
 While checking this methods out be sure to check family of `dirty` methods to check for changes before DB sync.
+
+## Warning
+
+Make sure to check if the method behaves the same on async queues - [https://masteringlaravel.io/daily/2024-08-06-sync-queue-works-differently-than-async](https://masteringlaravel.io/daily/2024-08-06-sync-queue-works-differently-than-async).
