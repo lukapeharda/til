@@ -1,4 +1,4 @@
-# Usefull VSCode Keyboard Shortcuts
+# Usefull VS Code Keyboard Shortcuts
 
 As seen on Wes Bos' YT video.
 
